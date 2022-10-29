@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ITI Automation Project">
+    <test name=" All groups Tests">
+        <!--groups>
+            <run>
+                <include name="Anime"/>
+            </run>
+        </groups-->
+        <classes>
+           <!--class name="TestVariables"></class-->
+           <class name="Test1"></class>
+        </classes>
+
+    </test>
+</suite>

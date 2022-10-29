@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [ITI Automation Project]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name=" All groups Tests(failed)" verbose="0">
+    <classes>
+      <class name="TestVariables">
+        <methods>
+          <include name="openChrome"/>
+        </methods>
+      </class> <!-- TestVariables -->
+    </classes>
+  </test> <!--  All groups Tests(failed) -->
+</suite> <!-- Failed suite [ITI Automation Project] -->
